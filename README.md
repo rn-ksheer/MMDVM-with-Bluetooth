@@ -7,7 +7,8 @@ Using MMDVM hat with HC-05 and Android phone
    * Connect Bluetooth Module to PC using any FTDI module asper the pin connections
       * <img src="https://user-images.githubusercontent.com/14138724/206110883-1841c9f6-802f-495d-8f2b-246089349ba5.jpg" width="200">
       
-      * <img src="https://user-images.githubusercontent.com/14138724/206111728-42e907f2-2965-4109-b268-73f197bab4e5.png" width="200">
+      * <img src="https://user-images.githubusercontent.com/14138724/206869373-7f3b383b-f3fc-43ca-82c0-d3f298d8349d.png" width="200">
+      
 
    * Check **COM port** from device manager
    * Plug-in FTDI module and Open **TeraTerm**, Screen will be displayed as shown below:
