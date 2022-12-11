@@ -10,8 +10,8 @@ Using MMDVM hat with HC-05 and Android phone
       * <img src="https://user-images.githubusercontent.com/14138724/206869373-7f3b383b-f3fc-43ca-82c0-d3f298d8349d.png" width="200">
       
 
-   * Check **COM port** from device manager
-   * Plug-in FTDI module and Open **TeraTerm**, Screen will be displayed as shown below:
+   * Plug-in FTDI module and Check **COM port** from device manager
+   * Open **TeraTerm**, Screen will be displayed as shown below:
     
       * <img src="https://user-images.githubusercontent.com/14138724/205962954-df55a14b-78ab-4b7b-ae17-257f11541c3d.jpg" width="400">
     
