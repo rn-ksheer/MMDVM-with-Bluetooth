@@ -1,6 +1,17 @@
 # MMDVM-with-Bluetooth
 Using MMDVM hat with HC-05 and Android phone
 
+### Click to watch Video Tutorial:
+<div align="center">
+      <a href="https://youtu.be/peXm5wWeBAw">
+     <img 
+      src="https://user-images.githubusercontent.com/14138724/208304269-5abb270d-7763-4236-92d7-3a2a7517a342.jpg" 
+      alt="YouTube link" 
+      style="width:50%;">
+      </a>
+    </div>
+
+    
 
 ##
 1. ## Configure HC-05 Bluetooth Module 
@@ -17,7 +28,7 @@ Using MMDVM hat with HC-05 and Android phone
     
     * Select **Serial** with the right **COM port**
     
-      * <img src="https://user-images.githubusercontent.com/14138724/205965192-b1087012-d5f8-426c-bf72-6d89ed3d370e.png" width="400">  ***Click OK***
+      * <img width="535" alt="4" src="https://user-images.githubusercontent.com/14138724/208306217-966f30dd-09bd-4b18-b732-72d5f2cb11ca.png">b1087012-d5f8-426c-bf72-6d89ed3d370e.png" width="400">  ***Click OK***
     
     * GoTO **Setup**   
       
@@ -71,9 +82,10 @@ Using MMDVM hat with HC-05 and Android phone
         
        
  2. ## Configure BlueDV application
+     * Android settings
         
-        
-        
+        * <img width="225" alt="1" src="https://user-images.githubusercontent.com/14138724/208306214-b681e08f-8c80-4820-aea8-1902753e32c9.png">          <img width="225" alt="2" src="https://user-images.githubusercontent.com/14138724/208306215-422bcdfa-c0d0-4918-88d1-fd9bfd09662c.png">     <img width="225" alt="3" src="https://user-images.githubusercontent.com/14138724/208306216-30993f17-a6bf-4a36-a3f2-b02962d4bf80.png">     <img width="225" alt="4" src="https://user-images.githubusercontent.com/14138724/208306287-3b04d5de-3ad2-4f7c-9a9c-3bda4767e2ad.png">
+
 
 
 
