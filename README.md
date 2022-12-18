@@ -28,8 +28,8 @@ Using MMDVM hat with HC-05 and Android phone
     
     * Select **Serial** with the right **COM port**
     
-      * <img width="535" alt="4" src="https://user-images.githubusercontent.com/14138724/208306217-966f30dd-09bd-4b18-b732-72d5f2cb11ca.png">b1087012-d5f8-426c-bf72-6d89ed3d370e.png" width="400">  ***Click OK***
-    
+      * <img src="https://user-images.githubusercontent.com/14138724/208306673-3958e21e-54b0-4cf2-aa61-17d81f7a1a68.png" width="400">  ***Click OK***
+
     * GoTO **Setup**   
       
       * <img src="https://user-images.githubusercontent.com/14138724/205966306-26ee5a72-787a-4b6c-969c-aaf116e80820.png" width="400">
